@@ -16,13 +16,6 @@
   </url>
   
   <url>
-    <loc>https://trr05.github.io/blog/categories/index.html</loc>
-    
-    <lastmod>2022-06-12</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://trr05.github.io/blog/about/index.html</loc>
     
     <lastmod>2022-06-12</lastmod>
@@ -30,7 +23,7 @@
   </url>
   
   <url>
-    <loc>https://trr05.github.io/blog/2021/03/09/Git%E5%B7%A5%E5%85%B7-.gitmodules/</loc>
+    <loc>https://trr05.github.io/blog/categories/index.html</loc>
     
     <lastmod>2022-06-12</lastmod>
     
@@ -38,6 +31,13 @@
   
   <url>
     <loc>https://trr05.github.io/blog/2021/01/20/myFirstBlog/</loc>
+    
+    <lastmod>2022-06-12</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://trr05.github.io/blog/2021/03/09/Git%E5%B7%A5%E5%85%B7-.gitmodules/</loc>
     
     <lastmod>2022-06-12</lastmod>
     
@@ -53,13 +53,6 @@
 
   
   <url>
-    <loc>https://trr05.github.io/blog/tags/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/</loc>
-    <lastmod>2022-06-12</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://trr05.github.io/blog/tags/Movie/</loc>
     <lastmod>2022-06-12</lastmod>
     <changefreq>daily</changefreq>
@@ -68,6 +61,13 @@
   
   <url>
     <loc>https://trr05.github.io/blog/tags/Travel/</loc>
+    <lastmod>2022-06-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://trr05.github.io/blog/tags/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/</loc>
     <lastmod>2022-06-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
